@@ -55,7 +55,6 @@ export const GPT35_MODELS = {
   "gpt-3.5-turbo-16k": { contextWindow: 16384 },
   "gpt-3.5-turbo-16k-0613": { contextWindow: 16384 },
   "gpt-3.5-turbo-1106": { contextWindow: 16384 },
-  "gpt-3.5-turbo-0125": { contextWindow: 16384 },
 };
 
 /**
